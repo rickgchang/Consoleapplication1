@@ -111,6 +111,7 @@ namespace ConsoleApplication1.Day2
     {
         public static void Main()
         {
+            // use generic
             List<Shape> shapeList = new List<Shape>();
         
 //         Shape[] shapes =
